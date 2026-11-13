@@ -1,39 +1,63 @@
-<h1 align="center">Hi 👋, I'm Mustafa Hegy</h1>
-<h3 align="center">iOS developer</h3>
+# Mustafa Mohamed Hegy
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafahegy&label=Profile%20views&color=0e75b6&style=flat" alt="mustafahegy" /> </p>
+### Senior iOS Engineer · FinTech & Digital Banking
 
-- 🔭 I’m currently working on [MBank (Almaryah Community Bank)](https://apps.apple.com/eg/app/mbank-uae/id1573880332)
+I design and ship native iOS apps for banking, digital wallets and payments — products where security, reliability and a polished user experience matter most.
 
-- 🌱 I’m currently learning **SwiftUi / Combine / Flutter**
+[LinkedIn](https://www.linkedin.com/in/mustafa-mohamed94/) · [Email](mailto:mustafa.hegy94@gmail.com) · Cairo, Egypt · Open to remote Senior iOS roles
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mustafa-mohamed94/details/projects/](https://www.linkedin.com/in/mustafa-mohamed94/details/projects/)
+---
 
-- 💬 Ask me about **iOS native (Swift - Rx-Swift - SwiftUi)**
+## About me
 
-- 📫 How to reach me **mustafa.hegy94@gmail.com**
+- **7+ years** of professional iOS development, from feature work to production support and App Store releases
+- **FinTech & digital banking:** banking and wallet apps serving **200K+ users**, with payment flows supporting **~20K transactions per month**
+- **Multi-domain product experience:** iOS apps across e-commerce, automotive marketplaces and on-demand services, used by **50K+ users**
+- **Payments & mobile security:** Aani Pay and DGPays integrations, UAE Pass authentication, FacePhi biometric onboarding (KYC), eKey authentication, secure storage
+- **Architecture:** MVVM, Clean Architecture and modular architecture, with reusable components and SDKs distributed through Swift Package Manager
+- **Performance:** profiling and targeted optimizations that improved app performance by ~20% at Leadership Orbit
+- **Technical leadership & mentoring:** reviewing code and giving technical feedback, mentoring fellow iOS developers, and supporting technical decisions and implementation approaches
+- **Collaboration:** working with other developers to maintain code quality, within Agile/Scrum teams alongside backend, QA and product
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mustafa-mohamed94/](https://www.linkedin.com/in/mustafa-mohamed94/)
+## Tech stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mustafa-mohamed94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafa mohamed" height="30" width="40" /></a>
-<a href="https://fb.com/مصطفى حجى" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="مصطفى حجى" height="30" width="40" /></a>
-<a href="https://instagram.com/mustafa_hegy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mustafa_hegy" height="30" width="40" /></a>
-</p>
+| Area | Technologies |
+|---|---|
+| **Languages** | Swift, Objective-C |
+| **iOS frameworks** | SwiftUI, UIKit, Combine, Core Data |
+| **Architecture** | MVVM, Clean Architecture, Modular Architecture, MVC, MVP, SOLID |
+| **Networking & data** | REST APIs, URLSession, Alamofire, Realm, SQLite, Firebase |
+| **Security & identity** | Biometric authentication, UAE Pass, secure storage, KYC onboarding |
+| **Integrations** | Payment gateways, deep linking, push notifications, third-party SDKs |
+| **Dependencies & tooling** | Swift Package Manager, CocoaPods, Xcode, Git, Fastlane |
+| **Delivery & quality** | CI/CD (GitHub Actions, Jenkins), XCTest, debugging, profiling, memory management |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
-</p>
+## Experience
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafahegy&show_icons=true&locale=en&layout=compact" alt="mustafahegy" /></p>
+| Role | Company | Period |
+|---|---|---|
+| Senior iOS Developer | FOO FinTech Solutions | Feb 2022 – Nov 2026 |
+| iOS Developer (Freelance) | Digified | Oct 2021 – Feb 2022 |
+| iOS Developer | Leadership Orbit | Jun 2019 – Feb 2022 |
+
+## Selected professional work
+
+These are commercial products, so their source code is not public. The notes below describe my contributions only.
+
+- **MBank** — digital banking app (~200K users): Aani Pay integration, FacePhi biometric onboarding, card management
+- **MWallet** — mobile wallet (~20K transactions/month): UAE Pass authentication, DGPays and Aani Pay integrations, deep linking with MBank for cash-out and top-up
+- **Bede Bahrain** — digital Islamic financing: loan application flow, eligibility and document submission, eKey authentication
+- **Modular SDK** — reusable iOS components and modules distributed with Swift Package Manager
+- **Digified SDK** — document-verification features using TensorFlow Lite
+
+## Open source
+
+- [**SwiftUiCustomAlert**](https://github.com/mustafahegy/SwiftUiCustomAlert) — reusable SwiftUI alert component packaged as a CocoaPod
+- [**instgram-ui-app**](https://github.com/mustafahegy/instgram-ui-app) — Instagram home-screen UI built in SwiftUI
+- [**CardEntryKit**](https://github.com/mustafahegy/CardEntryKit) — *work in progress:* planned SwiftUI card-entry component for payment flows
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/mustafa-mohamed94](https://www.linkedin.com/in/mustafa-mohamed94/)
+- GitHub: [github.com/mustafahegy](https://github.com/mustafahegy)
+- Email: [mustafa.hegy94@gmail.com](mailto:mustafa.hegy94@gmail.com)
